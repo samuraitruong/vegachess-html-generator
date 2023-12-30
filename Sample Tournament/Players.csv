@@ -1,0 +1,9 @@
+Vega sample tournament
+Starting Rank List
+N;NAME;COUNTRY;BIRTHDAY;GENDER;TITLE;RATING;IDFIDE;ELOFIDE;KFIDE;IDNAT;ELONAT;KNAT;CLUB;INFO
+  1; Hahna Le                        ;VIC;01.01.1987;m; CM; 2345; 93849384; 2345; 0;0; 1987; 0;;
+  2; John Doe                        ;VIE;12.12.1837;m;   ; 1987;   123456; 1987; 0;0;    0; 0;;
+  3; Leona Devinci                   ;THL;09.09.1999;m;   ; 1675;    12345; 1675; 0;0;    0; 0;;
+  4; Truong Nguyen                   ;VIC;01.01.1990;m;   ; 1234;  1456343; 1234; 0;0; 1000; 0;;
+  5; Luis Vinh                       ;VIE;01.01.1987;m;   ;    0;        0;    0; 0;938999;  987; 0;;
+  6; Janet Christiane                ;AUS;0000.00.00;m;   ;    0;        0;    0; 0;0;    0; 0;;

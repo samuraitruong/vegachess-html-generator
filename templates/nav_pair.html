@@ -1,0 +1,8 @@
+<div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups mb-4">
+    <div class="btn-group">
+        <h3 class="me-3">Pairings:</h3>
+        {% for r in rounds %}
+        <a class="btn btn-primary btn-sm pl-3 pr-3 pt-2 mr-2" href="pairs{{ r }}.html">{{ r }}</a>
+        {% endfor %}
+    </div>
+</div>
